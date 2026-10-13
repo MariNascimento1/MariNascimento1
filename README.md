@@ -18,11 +18,11 @@ Sigo aprofundando meus conhecimentos em Python, análise exploratória e machine
 
 ### Polaris — ferramenta de exploração de dados *(em desenvolvimento)*
 
-Aplicação em Python e Streamlit pensada para ajudar a entender conjuntos de dados a partir do envio de arquivos CSV. O projeto está sendo construído com uma arquitetura modular e busca reunir verificações de qualidade, estatísticas descritivas, identificação de características das colunas e geração de insights para apoiar a exploração inicial dos dados.
+Aplicação em Python e Streamlit pensada para ajudar a entender conjuntos de dados a partir do envio de arquivos CSV. O projeto busca reunir verificações de qualidade, estatísticas descritivas, identificação de características das colunas e recursos para apoiar a exploração inicial dos dados.
 
 **Tecnologias:** Python, Streamlit e Pandas.
 
-> O Polaris ainda está em desenvolvimento; estou evoluindo suas funcionalidades e refinando a qualidade das análises.
+> O Polaris ainda está em desenvolvimento. O código e o link do repositório serão adicionados quando o projeto estiver organizado para publicação.
 
 ### [E-commerce — análise de dados](https://github.com/MariNascimento1/E-commerce)
 
@@ -30,9 +30,20 @@ Projeto em Python com preparação e exploração de dados de produtos de vestu�
 
 **Ferramentas:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy e scikit-learn.
 
-## 📚 Certificações
+## 📚 Certificações e cursos complementares
 
-- [Google Data Analytics Professional Certificate](https://www.credly.com/go/nN5zJS75) — emitido em dezembro de 2024.
+**Google Data Analytics Professional Certificate**
+- [Certificado na Credly](https://www.credly.com/go/nN5zJS75) — emitido em dezembro de 2024.
+
+**Cursos concluídos — UNA**  
+Cada curso abaixo possui carga horária de 160 horas.
+
+- **Programação de Soluções Computacionais** — concluído em 14/05/2024.
+- **Modelagem de Software** — concluído em 23/05/2024.
+- **Análise de Dados e Big Data** — concluído em 18/04/2025.
+- **Computação Gráfica e Realidade Virtual** — concluído em 30/04/2025.
+- **Estruturas Matemáticas** — concluído em 30/04/2025.
+- **Teoria da Computação e Compiladores** — concluído em 16/12/2025.
 
 ## 📫 Vamos nos conectar?
 
